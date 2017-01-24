@@ -1,0 +1,25 @@
+{
+	"Carlos" : {
+		"entrada" : {
+			"hora" : "9",
+			"minuto" : "00"
+		},
+		"llegada" : {
+			"hora" : "9",
+			"minuto" : "30"
+		},
+		"mensaje" : "Has llegado tarde"
+	},
+	"Miguel" : {
+		"entrada" : {
+			"hora" : "9",
+			"minuto" : "00"
+		},
+		"llegada" : {
+			"hora" : "9",
+			"minuto" : "00"
+		},
+		"mensaje" : "Llegaste a la hora"
+	}
+}
+

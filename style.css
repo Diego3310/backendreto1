@@ -1,0 +1,54 @@
+body{
+    position: relative; 
+}
+.logo{
+ height: 40px;
+ position:relative;
+ bottom: 10px;
+
+ /*background: white;*/
+}
+
+.btn-register{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 50%;
+    text-align: center;
+    border-style: none !important;
+    margin-left:40%;
+    box-shadow: 5px 5px 5px #888888;
+    border-style: none !important;
+   
+}
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color:white}
+  #section2 {padding-top:50px;height:500px;color:steelblue; background:linear-gradient(to top,white,#d1fff4) ;}
+
+
+.user-class{
+    margin-bottom: 10px;
+}
+
+div{
+    background: -moz-element()
+}
+
+.alert-1{
+    display: none;
+    margin-top: 5px;
+}
+
+.alert-2{
+    display: none;
+    margin-top: 5px;
+}
+
+.modal-header{
+    background: linear-gradient(white,#e9f4f4);
+}
+
+.container-input{
+  position: relative;
+  left: 400px;
+  margin-top: 20px;
+}
